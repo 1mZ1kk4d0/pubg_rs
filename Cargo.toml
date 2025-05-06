@@ -1,6 +1,6 @@
 [package]
 name = "pubg-rs"
-version = "0.0.1"
+version = "0.0.2"
 authors = ["1mZ1kk4d0"]
 edition = "2021"
 description = "beta public rust pubg api"
