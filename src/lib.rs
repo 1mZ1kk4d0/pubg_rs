@@ -77,7 +77,7 @@ impl PubgRs {
     
             match response {
                 Err(_) => None,
-                Ok(player) => Some(player)
+                Ok(clan) => Some(clan)
             }
     
     }
